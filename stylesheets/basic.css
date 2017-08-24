@@ -40,7 +40,7 @@ h1, h2, h3, span, p,
   display: block;
   width: 242px;
   height: 89px;
-  background-image: url('../images/thevillage.png');
+  background-image: url(https://raw.githubusercontent.com/digitalkill3rrr/LAM_special/master/images/thevillage.png);
   background-size: cover;
 }
 
@@ -48,14 +48,14 @@ h1, h2, h3, span, p,
   display: block;
   width: 280px;
   height: 72px;
-  background-image: url('../images/basquiat.png');
+  background-image: url(https://raw.githubusercontent.com/digitalkill3rrr/LAM_special/master/images/basquiat.png);
   background-size: cover;
 }
 
 #page1 {
   display: block;
 
-  background: url("../images/jmb.jpg");
+  background: url(https://raw.githubusercontent.com/digitalkill3rrr/LAM_special/master/images/jmb.jpg);
   background-attachment: fixed;
   background-origin: initial;
   background-clip: initial;
@@ -152,7 +152,7 @@ h1, h2, h3, span, p,
 
 #img1 {
   position: relative;
-  background-image: url('../images/basquiat_painting.gif');
+  background-image: url(https://raw.githubusercontent.com/digitalkill3rrr/LAM_special/master/images/basquiat_painting.gif);
   background-size: cover;
   background-repeat: no-repeat;
   width: 903px;
@@ -236,7 +236,7 @@ p.script {
   height: 495px;
   display: block;
   color: red;
-  background-image: url('../images/anatomy.jpg');
+  background-image: url(https://raw.githubusercontent.com/digitalkill3rrr/LAM_special/master/images/anatomy.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -246,7 +246,7 @@ p.script {
   height: 495px;
   display: block;
   color: red;
-  background-image: url('../images/music.jpg');
+  background-image: url(https://raw.githubusercontent.com/digitalkill3rrr/LAM_special/master/images/music.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -256,7 +256,7 @@ p.script {
   height: 495px;
   display: block;
   color: red;
-  background-image: url('../images/sport.jpg');
+  background-image: url(https://raw.githubusercontent.com/digitalkill3rrr/LAM_special/master/images/sport.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -267,7 +267,7 @@ p.script {
   height: 495px;
   display: block;
   color: red;
-  background-image: url('../images/rasism.jpg');
+  background-image: url(https://raw.githubusercontent.com/digitalkill3rrr/LAM_special/master/images/rasism.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -277,7 +277,7 @@ p.script {
   height: 495px;
   display: block;
   color: red;
-  background-image: url('../images/predki.jpg');
+  background-image: url(https://raw.githubusercontent.com/digitalkill3rrr/LAM_special/master/images/predki.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -287,7 +287,7 @@ p.script {
   height: 495px;
   display: block;
   color: red;
-  background-image: url('../images/money.jpg');
+  background-image: url(https://raw.githubusercontent.com/digitalkill3rrr/LAM_special/master/images/money.jpg);
   background-size: cover;
   background-position: right;
   background-repeat: no-repeat;
@@ -298,7 +298,7 @@ p.script {
   height: 495px;
   display: block;
   color: red;
-  background-image: url('../images/politics.jpg');
+  background-image: url(https://raw.githubusercontent.com/digitalkill3rrr/LAM_special/master/images/politics.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -308,7 +308,7 @@ p.script {
   height: 495px;
   display: block;
   color: red;
-  background-image: url('../images/stereotypes.jpg');
+  background-image: url(https://raw.githubusercontent.com/digitalkill3rrr/LAM_special/master/images/stereotypes.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -318,7 +318,7 @@ p.script {
   height: 495px;
   display: block;
   color: red;
-  background-image: url('../images/art.jpg');
+  background-image: url(https://raw.githubusercontent.com/digitalkill3rrr/LAM_special/master/images/art.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -328,7 +328,7 @@ p.script {
   height: 495px;
   display: block;
   color: red;
-  background-image: url('../images/philosophy.jpg');
+  background-image: url(https://raw.githubusercontent.com/digitalkill3rrr/LAM_special/master/images/philosophy.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -338,7 +338,7 @@ p.script {
   height: 495px;
   display: block;
   color: red;
-  background-image: url('../images/death.jpg');
+  background-image: url(https://raw.githubusercontent.com/digitalkill3rrr/LAM_special/master/images/death.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -414,7 +414,7 @@ p.script {
 
 #img5 {
   position: absolute;
-  background-image: url('../images/bop.jpg');
+  background-image: url(https://raw.githubusercontent.com/digitalkill3rrr/LAM_special/master/images/bop.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 480px;
@@ -478,7 +478,7 @@ p.script {
 
 #img8 {
   position: relative;
-  background-image: url('../images/monalisa.jpg');
+  background-image: url(https://raw.githubusercontent.com/digitalkill3rrr/LAM_special/master/images/monalisa.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 377px;
@@ -491,7 +491,7 @@ p.script {
 #img9 {
   display: none;
   position: relative;
-  background-image: url('../images/hits.jpg');
+  background-image: url(https://raw.githubusercontent.com/digitalkill3rrr/LAM_special/master/images/hits.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 377px;
@@ -504,7 +504,7 @@ p.script {
 #img10 {
   display: none;
   position: relative;
-  background-image: url('../images/anatomicalstudies.jpg');
+  background-image: url(https://raw.githubusercontent.com/digitalkill3rrr/LAM_special/master/images/anatomicalstudies.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 377px;
@@ -630,7 +630,7 @@ span.description {
   justify-content: space-between;
   align-items: center;
   position: relative;
-  background-image: url('../images/exhibition.jpg');
+  background-image: url(https://raw.githubusercontent.com/digitalkill3rrr/LAM_special/master/images/exhibition.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -743,7 +743,7 @@ span.description {
   left: 130px;*/
 
   position: relative;
-  background-image: url(../images/child.jpg);
+  background-image: url(https://raw.githubusercontent.com/digitalkill3rrr/LAM_special/master/images/child.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -804,7 +804,7 @@ span.description {
   top: 99px;*/
 
   position: relative;
-  background-image: url(../images/process.gif);
+  background-image: url(https://raw.githubusercontent.com/digitalkill3rrr/LAM_special/master/images/process.gif);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -858,7 +858,7 @@ span.description {
 
 #img14 {
   position: relative;
-  background-image: url('../images/basquiat_warhol.gif');
+  background-image: url(https://raw.githubusercontent.com/digitalkill3rrr/LAM_special/master/images/basquiat_warhol.gif);
   background-size: cover;
   background-repeat: no-repeat;
   width: 903px;
